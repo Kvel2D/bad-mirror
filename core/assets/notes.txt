@@ -1,0 +1,24 @@
+Level order
+
+no pushing:
+shift
+tight
+stairs
+labyrinth
+
+objective push levels:
+separatism
+small drop
+dropfun
+
+box push levels:
+sokoban
+four boxes
+
+box/objective push levels:
+
+
+
+
+stairs might need camera adjustment(+5x seems to work alright)
+labyrinth also has one moment where you can't see the mirror player
